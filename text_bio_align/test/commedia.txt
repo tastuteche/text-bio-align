@@ -1,0 +1,4 @@
+she is hungry.
+it is hungry.
+i am full.
+it is full.
